@@ -4,15 +4,26 @@ Modified Permissive License - Limited Duration
 Limited Term. 
 
 This permissive license is effective from the time you download the Design Materials and Software until the earlier of (i) the final day the WHO’s PHEIC is in effect or (ii) October 1, 2024 (the “Term”).
-Software License. You may reproduce, modify and distribute the Software only as needed to manufacture and distribute Your Ventilator.
-Revocability. Loftwerks Inc., cannot revoke this license during the Term as long as you follow the license terms.
-Regulatory Approval. Your sale or distribution of Your Ventilator is conditioned on you obtaining all required regulatory approvals in each country or territory in which you plan to sell or distribute Your Ventilator, and you must comply with all applicable regulatory requirements in those jurisdictions.
+
+Software License 
+
+You may reproduce, modify and distribute the Software only as needed to manufacture and distribute Your Ventilator.
+Revocability. 
+
+Loftwerks Inc., cannot revoke this license during the Term as long as you follow the license terms.
+
+Regulatory Approval 
+
+Your sale or distribution of Your Ventilator is conditioned on you obtaining all required regulatory approvals in each country or territory in which you plan to sell or distribute Your Ventilator, and you must comply with all applicable regulatory requirements in those jurisdictions.
 
 Notices & Warning
 
 You must provide a warning indicating that Your Ventilator was created in response to the COVID-19 pandemic (an example is provided below). You must provide a link to this license, indicate if any changes were made to the Design Materials or the Software, and describe the nature of such changes. You must retain all copyright, patent, trademark, and other proprietary notices in the Design Materials and Software.
 COVID-19 Warning: This Ventilator was created for use only in response to the COVID-19 pandemic. It is provided AS IS.
-Modifications. If you modify, transform, improve or build upon the Design Materials or the Software (collectively, “Modifications”), you must make your Modifications available under a license that includes terms identical to the terms of this license. Everyone who receives the Design Materials or the Software receives a license from Loftwerks Inc., under the terms of this license. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+Modifications 
+
+If you modify, transform, improve or build upon the Design Materials or the Software (collectively, “Modifications”), you must make your Modifications available under a license that includes terms identical to the terms of this license. Everyone who receives the Design Materials or the Software receives a license from Loftwerks Inc., under the terms of this license. You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 Limitation of Liability
 
