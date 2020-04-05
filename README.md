@@ -1,6 +1,9 @@
-# magami
+# magami 
 Modified Permissive License - Limited Duration
-Limited Term. This permissive license is effective from the time you download the Design Materials and Software until the earlier of (i) the final day the WHO’s PHEIC is in effect or (ii) October 1, 2024 (the “Term”).
+
+Limited Term. 
+
+This permissive license is effective from the time you download the Design Materials and Software until the earlier of (i) the final day the WHO’s PHEIC is in effect or (ii) October 1, 2024 (the “Term”).
 Software License. You may reproduce, modify and distribute the Software only as needed to manufacture and distribute Your Ventilator.
 Revocability. Loftwerks Inc., cannot revoke this license during the Term as long as you follow the license terms.
 Regulatory Approval. Your sale or distribution of Your Ventilator is conditioned on you obtaining all required regulatory approvals in each country or territory in which you plan to sell or distribute Your Ventilator, and you must comply with all applicable regulatory requirements in those jurisdictions.
