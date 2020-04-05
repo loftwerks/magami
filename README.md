@@ -8,7 +8,8 @@ This permissive license is effective from the time you download the Design Mater
 Software License 
 
 You may reproduce, modify and distribute the Software only as needed to manufacture and distribute Your Ventilator.
-Revocability. 
+
+Revocability 
 
 Loftwerks Inc., cannot revoke this license during the Term as long as you follow the license terms.
 
