@@ -20,7 +20,8 @@ Your sale or distribution of Your Ventilator is conditioned on you obtaining all
 Notices & Warning
 
 You must provide a warning indicating that Your Ventilator was created in response to the COVID-19 pandemic (an example is provided below). You must provide a link to this license, indicate if any changes were made to the Design Materials or the Software, and describe the nature of such changes. You must retain all copyright, patent, trademark, and other proprietary notices in the Design Materials and Software.
-COVID-19 Warning: This Ventilator was created for use only in response to the COVID-19 pandemic. It is provided AS IS.
+
+"COVID-19 Warning: This Ventilator was created for use only in response to the COVID-19 pandemic. It is provided AS IS."
 
 Modifications 
 
